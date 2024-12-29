@@ -1,1 +1,1 @@
-# helpdesk
+This project is aimed to relearn Java while implementing and furthering my knowledge with Web Development.
